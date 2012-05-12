@@ -50,5 +50,3 @@ Now all your `**bold**` text should be bold and all your `_italic_` text should 
 
 ##How You Could Help
 1. I would like to make the WikiWords linker more robust, and possibly find a way to have it identify any words that are the names of other pages in the directory, so that you could use any word as a keyword, á la [Tomboy](http://projects.gnome.org/tomboy/).
-2. Support for external hyperlinks would be nice. Right now they're highlighted, but you can't follow them. If there's a good, cross-platform way to open a link in the default browser that would be great.
-
